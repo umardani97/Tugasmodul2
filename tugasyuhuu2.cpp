@@ -2,10 +2,12 @@
 using namespace std;
 
 int main(){
-	nilai=nilai+1;
 	int nilai;
-	int 1Nilai;
+	int nilai1;
 	
-	Cout << nilai;
-	cout << 1Nilai;
+	cout<<"Masukkan angka yang anda inginkan: ";
+	cin>>nilai1;
+	nilai=nilai1+1;
+	cout<<nilai<<"\n";
+	cout<<"hello C++..";
 }
