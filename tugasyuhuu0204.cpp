@@ -30,5 +30,6 @@ int main(){
 	double biayaparket=jumlahboxparket*upah1box;
 	cout<<"Biaya Parket(Rp)         : "<<biayaparket<<"\n";
 	
-	
+	double biayapasang=luasrumah*upahpemasanganperm2;
+	cout<<"Biaya Pasang(Rp)         : "<<biayapasang<<"\n";
 }
