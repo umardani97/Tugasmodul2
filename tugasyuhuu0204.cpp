@@ -32,4 +32,8 @@ int main(){
 	
 	double biayapasang=luasrumah*upahpemasanganperm2;
 	cout<<"Biaya Pasang(Rp)         : "<<biayapasang<<"\n";
+	
+	double totalbiaya=biayaparket+biayapasang;
+	cout<<"Total Biaya(Rp)          : "<<totalbiaya<<"\n";
+	
 }
