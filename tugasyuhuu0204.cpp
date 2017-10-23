@@ -18,5 +18,10 @@ int main(){
 	double luas1boxparket=kepingparket*8;
 	cout<<"Luas 1 box Parket  : "<<luas1boxparket<<"m2\n";
 	
+	double jumlahboxparket=luasrumah/luas1boxparket;
+	cout<<"Jumlah box Parket  : "<<jumlahboxparket<<"\n";
+	
+	
+	
 	
 }
