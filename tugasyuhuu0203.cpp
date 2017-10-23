@@ -12,4 +12,6 @@ int main(){
 	
 	cout<<beratton<<endl;
 	
+	double jumlah=1/beratton;
+	cout<<jumlah;
 }
